@@ -2,6 +2,35 @@
 
 ### Full-Stack & Mobile Developer | IOS Specialist | SaaS Founder
 
+---
+
+### 🌟 Featured Projects
+
+#### 💎 **Project-S (For now Only in iOS)**
+An all-in-one, AI-integrated sports ecosystem. This high-end application leverages machine learning for performance tracking and smart user guidance.
+* **Progress:** ![70%](https://geps.dev/progress/70)
+
+#### 🍏 **Zesty (Live Beta)**
+A modern iOS application designed for seamless performance and a premium user experience.
+* **Status:** Public Beta testing and final UI polishing.
+* **Progress:** ![90%](https://geps.dev/progress/90)
+* **[🚀 Join the Beta on TestFlight](https://testflight.apple.com/join/gYnwpk42)**
+
+#### 🏪 **NöbetMini (SaaS & Hardware)**
+A mission-critical pharmacy duty management system. This project represents a full-stack engineering feat, from physical hardware to cloud security.
+* **Technical Deep Dive:**
+    * **RAM Optimization:** Engineered custom solutions for low-resource hardware (Raspberry Pi & Orange Pi), ensuring 24/7 uptime with minimal memory footprint.
+    * **Cybersecurity:** Hardened API endpoints and orchestrated **Cloudflare** rules to prevent unauthorized access and DDoS attacks.
+    * **Full Lifecycle:** Handled everything from PCB-level hardware setup to Google Ads and market deployment.
+* **Progress:** ![98%](https://geps.dev/progress/98)
+* **[Visit NöbetMini](https://www.nobetmini.com)**
+
+#### 🚕 **Project-A **
+A social responsibility project specifically being developed for **Bilecik Municipality**. It focuses on mobile accessibility and smart dispatching to meet community needs.
+* **Status:** Currently in the architecture and prototyping phase. Full details and implementation roadmap will be shared soon.
+* **Progress:** ![10%](https://geps.dev/progress/15)
+
+---
 I don’t just write code; I build end-to-end digital products and businesses. My expertise lies in bridging the gap between high-performance native mobile apps and scalable SaaS ecosystems.
 
 - **Frontend & Mobile:** Deep experience in Swift and React Native, focusing on minimalist UI/UX.
@@ -20,35 +49,18 @@ I am a developer who loves building end-to-end solutions, from low-level hardwar
 | **Mobile** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=xcode&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
 | **Frontend** | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
 | **Backend & DB** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
-| **DevOps & Hardware** | ![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-
----
-
-### 🌟 Key Projects
-
-#### 💎 **Project-S (Stealth Mode)**
-An all-in-one, AI-integrated sports ecosystem for iOS. This high-end application focuses on performance tracking and smart user guidance. Currently under active development.
-
-#### 🍏 **Zesty**
-A modern iOS application now live in Beta. Experience the clean UI and performance-driven design.
-* **[Check out the Beta on TestFlight](https://link-to-your-zesty-beta)**
-
-#### 🏪 **NöbetMini (SaaS)**
-A comprehensive SaaS solution for pharmacies. This project showcases my ability to handle the full product lifecycle:
-* **Hardware:** Custom shell scripts and system optimization on Raspberry Pi & Orange Pi.
-* **Software:** Built with React Native and integrated with a robust backend.
-* **Business:** Managed everything from domain deployment and Cloudflare security to Google Ads and sales strategies.
-* **[Visit NöbetMini](https://nobetmini.com)**
+| **DevOps & Hardware** | ![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white) |
 
 ---
 
 ### 🎓 Academic & Group Projects
 
 * **Real-Time Attendance:** A React Native application developed as a group project to track attendance in real-time.
+    * [View on Vercel](real-time-attendence.vercel.app)
 * **ExamSecurity:** An AI-driven project focused on preventing academic dishonesty using **Face Recognition** to verify user identity.
-    * [View on Vercel](https://link-to-examsecurity)
-* **Thesis Search Engine:** A specialized search platform for academic theses, built with React Native for a seamless search experience.
-    * [View on Vercel](https://link-to-thesis-page)
+    * [View on Vercel](examsec.vercel.app)
+* **Thesis Search Engine:** A specialized search platform for academic theses, built with PostgreSQL and React Native for a seamless search experience.
+    * [View on Vercel](db-practice-ten.vercel.app)
 
 ---
 
@@ -60,7 +72,6 @@ A comprehensive SaaS solution for pharmacies. This project showcases my ability 
 ---
 
 ### 📫 Let's Connect
-- 💼 [LinkedIn](Your-LinkedIn-URL)
-- 📧 [Email](Your-Email-Address)
+- 📧 [Email](erdembeler@hotmail.com)
 
 *"Turning coffee into scalable SaaS products."* ☕🍏
