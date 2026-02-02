@@ -1,4 +1,4 @@
-# Hi there, I'm [Erdem BELER]! 👋
+# Hi there, I'm Erdem BELER! 👋
 
 ### Full-Stack & Mobile Developer | IOS Specialist | SaaS Founder
 
