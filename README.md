@@ -1,34 +1,39 @@
 # Hi there, I'm Erdem BELER! 👋
 
 ## Full-Stack & Mobile Developer | IOS Specialist | SaaS Founder
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8A19.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![Swift](https://img.shields.io/badge/swift-F05138?style=flat&logo=swift&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
+
+## 🌟 Featured Projects
+### 🏪 **NöbetMini (SaaS & Hardware)** | **[Visit NöbetMini](https://www.nobetmini.com)**
+ **Progress:** ![98%](https://geps.dev/progress/98)
+ 
+A mission-critical pharmacy duty management system. This project represents a full-stack engineering feat, from physical hardware to cloud security.
+* **Technical Deep Dive:**
+    * **RAM Optimization:** Engineered custom solutions for low-resource hardware, ensuring 24/7 uptime with minimal memory footprint.
+    * **Cybersecurity:** Hardened API endpoints and orchestrated **Cloudflare** rules to prevent unauthorized access and DDoS attacks.
+    * **Full Lifecycle:** Handled everything from PCB-level hardware setup to Google Ads and market deployment.
+
+--- 
+
+### 🍏 **Zesty (Live Beta)** | **[🚀 Join the Beta on TestFlight](https://testflight.apple.com/join/gYnwpk42)**
+**Progress:** ![90%](https://geps.dev/progress/90)
+
+A modern iOS application designed for seamless performance and a premium user experience.
+* **Status:** Public Beta testing and final UI polishing.
+---
+### 💎 **Project-S (For now Only in iOS)**
+**Progress:** ![70%](https://geps.dev/progress/70)
+
+An all-in-one, AI-integrated sports ecosystem. This high-end application leverages machine learning for performance tracking and smart user guidance.
 
 ---
 
-## 🌟 Featured Projects
+### 🚕 Project-A
 
-### 🏪 **NöbetMini (SaaS & Hardware)**
-A mission-critical pharmacy duty management system. This project represents a full-stack engineering feat, from physical hardware to cloud security.
-* **Technical Deep Dive:**
-    * **RAM Optimization:** Engineered custom solutions for low-resource hardware (Raspberry Pi & Orange Pi), ensuring 24/7 uptime with minimal memory footprint.
-    * **Cybersecurity:** Hardened API endpoints and orchestrated **Cloudflare** rules to prevent unauthorized access and DDoS attacks.
-    * **Full Lifecycle:** Handled everything from PCB-level hardware setup to Google Ads and market deployment.
-* **Progress:** ![98%](https://geps.dev/progress/98)
-* **[Visit NöbetMini](https://www.nobetmini.com)**
+**Progress:** ![10%](https://geps.dev/progress/15)
 
-### 🍏 **Zesty (Live Beta)**
-A modern iOS application designed for seamless performance and a premium user experience.
-* **Status:** Public Beta testing and final UI polishing.
-* **Progress:** ![90%](https://geps.dev/progress/90)
-* **[🚀 Join the Beta on TestFlight](https://testflight.apple.com/join/gYnwpk42)**
-
-### 💎 **Project-S (For now Only in iOS)**
-An all-in-one, AI-integrated sports ecosystem. This high-end application leverages machine learning for performance tracking and smart user guidance.
-* **Progress:** ![70%](https://geps.dev/progress/70)
-
-### 🚕 **Project-A **
 A social responsibility project specifically being developed for **Bilecik Municipality**. It focuses on mobile accessibility and smart dispatching to meet community needs.
 * **Status:** Currently in the architecture and prototyping phase. Full details and implementation roadmap will be shared soon.
-* **Progress:** ![10%](https://geps.dev/progress/15)
 
 ---
 I don’t just write code; I build end-to-end digital products and businesses. My expertise lies in bridging the gap between high-performance native mobile apps and scalable SaaS ecosystems.
@@ -37,16 +42,6 @@ I don’t just write code; I build end-to-end digital products and businesses. M
 - **Backend & Cloud:** Experience with Firebase and PostgreSQL, ensuring scalable and secure data management.
 - **Hardware & DevOps:** Proficient in Shell scripting and optimizing Linux-based systems (Raspberry/Orange Pi) for industrial use cases.
 - **Full Lifecycle:** Experienced in taking projects from local development to global sales, including SEO and Google Ads strategy.
----
-
-## 🛠 Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Mobile** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
-| **Frontend** | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend & DB** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
-| **DevOps & Hardware** | ![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white) |
 
 ---
 
@@ -63,8 +58,8 @@ I don’t just write code; I build end-to-end digital products and businesses. M
 
 ### 📊 GitHub Stats
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=erdembeler&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdembeler&layout=compact&theme=tokyonight)
 
 ---
 
