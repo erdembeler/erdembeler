@@ -5,7 +5,7 @@
 
 ## 🌟 Featured Projects
 ### 🏪 **NöbetMini (SaaS & Hardware)** | **[Visit NöbetMini](https://www.nobetmini.com)**
- **Progress:** ![98%](https://geps.dev/progress/98)
+ ![](https://progress-bar.xyz/98/?width=500&title=Progress&color=007ACC)
  
 A mission-critical pharmacy duty management system. This project represents a full-stack engineering feat, from physical hardware to cloud security.
 * **Technical Deep Dive:**
@@ -16,13 +16,13 @@ A mission-critical pharmacy duty management system. This project represents a fu
 --- 
 
 ### 🍏 **Zesty (Live Beta)** | **[🚀 Join the Beta on TestFlight](https://testflight.apple.com/join/gYnwpk42)**
-**Progress:** ![90%](https://geps.dev/progress/90)
+ ![](https://progress-bar.xyz/90/?width=500&title=Progress&color=007ACC)
 
 A modern iOS application designed for seamless performance and a premium user experience.
 * **Status:** Public Beta testing and final UI polishing.
 ---
 ### 💎 **Project-S (For now Only in iOS)**
-**Progress:** ![70%](https://geps.dev/progress/70)
+ ![](https://progress-bar.xyz/70/?width=500&title=Progress&color=007ACC)
 
 An all-in-one, AI-integrated sports ecosystem. This high-end application leverages machine learning for performance tracking and smart user guidance.
 
@@ -30,7 +30,7 @@ An all-in-one, AI-integrated sports ecosystem. This high-end application leverag
 
 ### 🚕 Project-A
 
-**Progress:** ![10%](https://geps.dev/progress/15)
+ ![](https://progress-bar.xyz/15/?width=500&title=Progress&color=007ACC)
 
 A social responsibility project specifically being developed for **Bilecik Municipality**. It focuses on mobile accessibility and smart dispatching to meet community needs.
 * **Status:** Currently in the architecture and prototyping phase. Full details and implementation roadmap will be shared soon.
