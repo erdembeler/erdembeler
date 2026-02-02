@@ -56,10 +56,11 @@ I don’t just write code; I build end-to-end digital products and businesses. M
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Insights (ONLY PUBLIC REPO'S)
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=erdembeler&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdembeler&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erdembeler&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
 
