@@ -18,7 +18,7 @@ A mission-critical pharmacy duty management system. This project represents a fu
  ![](https://progress-bar.xyz/90/?width=500&title=Progress&color=007ACC)
 
 A modern iOS application designed for seamless performance and a premium user experience.
-* **Status:** Public Beta testing and final UI polishing.
+* **Status:** Close Beta testing and final UI polishing.
 ---
 ### 💎 **Project-S (For now Only in iOS)**
  ![](https://progress-bar.xyz/70/?width=500&title=Progress&color=007ACC)
