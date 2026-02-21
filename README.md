@@ -29,7 +29,7 @@ An all-in-one, AI-integrated sports ecosystem. This high-end application leverag
 
 ### 🚕 Project-A
 
- ![](https://progress-bar.xyz/15/?width=500&title=Progress&color=007ACC)
+ ![](https://progress-bar.xyz/45/?width=500&title=Progress&color=007ACC)
 
 A social responsibility project specifically being developed for **Bilecik Belediyesi**. It focuses on mobile accessibility and smart dispatching to meet community needs.
 * **Status:** Currently in the architecture and prototyping phase. Full details and implementation roadmap will be shared soon.
