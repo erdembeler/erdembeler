@@ -20,7 +20,7 @@ A mission-critical pharmacy duty management system. This project represents a fu
 A modern iOS application designed for seamless performance and a premium user experience.
 * **Status:** Close Beta testing and final UI polishing.
 ---
-### 🦊 **FoxTrix (For now Only in iOS)** | **[🚀 Join the Beta on TestFlight](https://testflight.apple.com/join/mDeUVWPg))**
+### 🦊 **FoxTrix (For now Only in iOS)** | **[🚀 Join the Beta on TestFlight](https://testflight.apple.com/join/mDeUVWPg)**
  ![](https://progress-bar.xyz/70/?width=500&title=Progress&color=007ACC)
 
 An all-in-one, AI-integrated sports ecosystem. This high-end application leverages machine learning for performance tracking and smart user guidance.
