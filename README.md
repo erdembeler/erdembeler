@@ -4,7 +4,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8A19.svg?style=flat&logo=openjdk&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F05138?style=flat&logo=swift&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
 ## 🌟 Featured Projects
 ### 🏪 **NöbetMini - Dijital Eczane Nöbet Ekranları** | **[Visit NöbetMini](https://www.nobetmini.com)**
- ![](https://progress-bar.xyz/98/?width=500&title=Progress&color=007ACC)
+ ![](https://progress-bar.xyz/99/?width=500&title=Progress&color=007ACC)
  
 A mission-critical pharmacy duty management system. This project represents a full-stack engineering feat, from physical hardware to cloud security.
 * **Technical Deep Dive:**
@@ -15,13 +15,13 @@ A mission-critical pharmacy duty management system. This project represents a fu
 --- 
 
 ### 🍏 **Zesty (Live Beta)** | **[🚀 Join the Beta on TestFlight](https://testflight.apple.com/join/gYnwpk42)**
- ![](https://progress-bar.xyz/90/?width=500&title=Progress&color=007ACC)
+ ![](https://progress-bar.xyz/97/?width=500&title=Progress&color=007ACC)
 
 A modern iOS application designed for seamless performance and a premium user experience.
 * **Status:** Close Beta testing and final UI polishing.
 ---
 ### 🦊 **FoxTrix (For now Only in iOS)** | **[🚀 Join the Beta on TestFlight](https://testflight.apple.com/join/mDeUVWPg)**
- ![](https://progress-bar.xyz/70/?width=500&title=Progress&color=007ACC)
+ ![](https://progress-bar.xyz/80/?width=500&title=Progress&color=007ACC)
 
 An all-in-one, AI-integrated sports ecosystem. This high-end application leverages machine learning for performance tracking and smart user guidance.
 
