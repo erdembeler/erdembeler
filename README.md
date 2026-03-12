@@ -21,7 +21,7 @@ A modern iOS application designed for seamless performance and a premium user ex
 * **Status:** Close Beta testing and final UI polishing.
 ---
 ### 🦊 **FoxTrix (For now Only in iOS)** | **[🚀 Join the Beta on TestFlight](https://testflight.apple.com/join/mDeUVWPg)**
- ![](https://progress-bar.xyz/80/?width=500&title=Progress&color=007ACC)
+ ![](https://progress-bar.xyz/84/?width=500&title=Progress&color=007ACC)
 
 An all-in-one, AI-integrated sports ecosystem. This high-end application leverages machine learning for performance tracking and smart user guidance.
 
