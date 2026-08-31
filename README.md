@@ -14,11 +14,10 @@ A mission-critical pharmacy duty management system. This project represents a fu
 
 --- 
 
-### 🍏 **Zesty (Live Beta)** | **[🚀 Join the Beta on TestFlight](https://testflight.apple.com/join/gYnwpk42)**
+### 🍏 **Zesty** 
  ![](https://progress-bar.xyz/97/?width=500&title=Progress&color=007ACC)
 
 A modern iOS application designed for seamless performance and a premium user experience.
-* **Status:** Close Beta testing and final UI polishing.
 ---
 ### 🦊 **FoxTrix (For now Only in iOS)** | **[🚀 Join the Beta on TestFlight](https://testflight.apple.com/join/mDeUVWPg)**
  ![](https://progress-bar.xyz/84/?width=500&title=Progress&color=007ACC)
@@ -26,13 +25,6 @@ A modern iOS application designed for seamless performance and a premium user ex
 An all-in-one, AI-integrated sports ecosystem. This high-end application leverages machine learning for performance tracking and smart user guidance.
 
 ---
-
-### 🚕 Project-A
-
- ![](https://progress-bar.xyz/85/?width=500&title=Progress&color=007ACC)
-
-A social responsibility project specifically being developed for **Bilecik Belediyesi**. It focuses on mobile accessibility and smart dispatching to meet community needs.
-* **Status:** Currently in the architecture and prototyping phase. Full details and implementation roadmap will be shared soon.
 
 ---
 I don’t just write code; I build end-to-end digital products and businesses. My expertise lies in bridging the gap between high-performance native mobile apps and scalable SaaS ecosystems.
